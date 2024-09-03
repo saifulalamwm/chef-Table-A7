@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "productCategory": "Cooking",
+    "productName": "Classic Spaghetti Carbonara",
+    "productDescription": "Creamy pasta dish with bacon, eggs, and parmesan cheese, a traditional Italian favorite.",
+    "ingredients": [
+      "spaghetti",
+      "bacon",
+      "eggs",
+      "parmesan cheese",
+      "garlic",
+      "black pepper"
+    ],
+    "cookingTime": 25,
+    "totalCalories": 550,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 2,
+    "productCategory": "Cooking",
+    "productName": "Caesar Salad",
+    "productDescription": "Fresh romaine lettuce tossed in Caesar dressing, topped with croutons and shaved parmesan.",
+    "ingredients": [
+      "romaine lettuce",
+      "Caesar dressing",
+      "croutons",
+      "parmesan cheese",
+      "lemon",
+      "olive oil"
+    ],
+    "cookingTime": 15,
+    "totalCalories": 350,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 3,
+    "productCategory": "Cooking",
+    "productName": "Margherita Pizza",
+    "productDescription": "Simple and delicious pizza topped with tomato sauce, fresh mozzarella, and basil leaves.",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "fresh mozzarella",
+      "basil leaves",
+      "olive oil",
+      "salt"
+    ],
+    "cookingTime": 20,
+    "totalCalories": 700,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 4,
+    "productCategory": "Cooking",
+    "productName": "Chicken Alfredo Pasta",
+    "productDescription": "Creamy Alfredo sauce tossed with fettuccine pasta and grilled chicken, a comforting meal.",
+    "ingredients": [
+      "fettuccine pasta",
+      "chicken breast",
+      "heavy cream",
+      "parmesan cheese",
+      "butter",
+      "garlic"
+    ],
+    "cookingTime": 30,
+    "totalCalories": 600,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 5,
+    "productCategory": "Cooking",
+    "productName": "Beef Stir-Fry",
+    "productDescription": "Tender beef strips stir-fried with colorful vegetables in a savory sauce, served over rice.",
+    "ingredients": [
+      "beef sirloin",
+      "bell peppers",
+      "onion",
+      "broccoli",
+      "soy sauce",
+      "ginger"
+    ],
+    "cookingTime": 25,
+    "totalCalories": 450,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 6,
+    "productCategory": "Cooking",
+    "productName": "Vegetable Lasagna",
+    "productDescription": "Layers of lasagna noodles, marinara sauce, ricotta cheese, and assorted vegetables.",
+    "ingredients": [
+      "lasagna noodles",
+      "marinara sauce",
+      "ricotta cheese",
+      "zucchini",
+      "spinach",
+      "mushrooms"
+    ],
+    "cookingTime": 40,
+    "totalCalories": 550,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 7,
+    "productCategory": "Cooking",
+    "productName": "Shrimp Scampi",
+    "productDescription": "Juicy shrimp sautéed with garlic, white wine, and lemon, served over linguine pasta.",
+    "ingredients": [
+      "shrimp",
+      "linguine pasta",
+      "butter",
+      "white wine",
+      "lemon",
+      "parsley"
+    ],
+    "cookingTime": 20,
+    "totalCalories": 400,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 8,
+    "productCategory": "Cooking",
+    "productName": "Mushroom Risotto",
+    "productDescription": "Creamy Arborio rice cooked with mushrooms, onions, garlic, and parmesan cheese.",
+    "ingredients": [
+      "Arborio rice",
+      "mushrooms",
+      "onion",
+      "garlic",
+      "vegetable broth",
+      "parmesan cheese"
+    ],
+    "cookingTime": 35,
+    "totalCalories": 500,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 9,
+    "productCategory": "Cooking",
+    "productName": "Honey Garlic Salmon",
+    "productDescription": "Tender salmon fillets glazed with honey garlic sauce, baked to perfection.",
+    "ingredients": [
+      "salmon fillets",
+      "honey",
+      "garlic",
+      "soy sauce",
+      "lemon",
+      "olive oil"
+    ],
+    "cookingTime": 30,
+    "totalCalories": 450,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 10,
+    "productCategory": "Cooking",
+    "productName": "Vegetarian Chili",
+    "productDescription": "Hearty chili made with beans, vegetables, and spices, packed with flavor and protein.",
+    "ingredients": [
+      "kidney beans",
+      "black beans",
+      "tomatoes",
+      "bell peppers",
+      "onion",
+      "chili powder"
+    ],
+    "cookingTime": 35,
+    "totalCalories": 350,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 11,
+    "productCategory": "Cooking",
+    "productName": "Vegetarian Chili",
+    "productDescription": "Hearty chili made with beans, vegetables, and spices, packed with flavor and protein.",
+    "ingredients": [
+      "kidney beans",
+      "black beans",
+      "tomatoes",
+      "bell peppers",
+      "onion",
+      "chili powder"
+    ],
+    "cookingTime": 35,
+    "totalCalories": 350,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  },
+  {
+    "id": 12,
+    "productCategory": "Cooking",
+    "productName": "Vegetarian Chili",
+    "productDescription": "Hearty chili made with beans, vegetables, and spices, packed with flavor and protein.",
+    "ingredients": [
+      "kidney beans",
+      "black beans",
+      "tomatoes",
+      "bell peppers",
+      "onion",
+      "chili powder"
+    ],
+    "cookingTime": 35,
+    "totalCalories": 350,
+    "productImage": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1715608875~exp=1715612475~hmac=75b241485fe9b326f31da312019fae698b5ee4c59b2a5580eeb44734d5ed6a03&w=900"
+  }
+]
